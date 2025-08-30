@@ -126,14 +126,6 @@ india-general-election-results-2024/
 
 ---
 
-## 🔮 Future Enhancements
-
-* Integration with **real-time election data APIs**
-* Historical trend analysis with past election data
-* Embed dashboards in a **web app** for wider access
-
----
-
 ## 👨‍💻 Author
 
 **Rahul Nagaura**
